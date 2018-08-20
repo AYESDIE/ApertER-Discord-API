@@ -10,6 +10,8 @@
 
 
 
-model_path = "data/AperER.h5"
+model_path = "data/1CNN.h5"
 casc_path = "data/haarcascade_frontalface_default.xml"
 emotion = {0: "Angry", 1: "Disgust", 2: "Fear", 3: "Happy", 4: "Sad", 5: "Surprise", 6: "Neutral"}
+height = 48
+width = 48
